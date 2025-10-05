@@ -4,7 +4,7 @@ from src.algorithms.router import solve_k33_on_torus
 from src.visualization.visualizer import visualize_solution
 
 '''
-The complexity of the algorithm wouuld be, due to the implementation made:
+The complexity of the solution wouuld be, due to the implementation made:
 Time: O(1)
 Space O(1)
 
